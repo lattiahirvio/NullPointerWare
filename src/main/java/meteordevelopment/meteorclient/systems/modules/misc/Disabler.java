@@ -228,9 +228,6 @@ public final class Disabler extends Module {
              * Delaying right after teleport could mitigate this issue.
              * Note: Activate only after leaving spectator mode.
              * Reference: https://github.com/GrimAnticheat/Grim/blob/2.0/src/main/java/ac/grim/grimac/manager/SetbackTeleportUtil.java
-- peenis esp
-- grim disavler???
-- import optimize
              */
             if (packet instanceof PlayerPositionLookS2CPacket) {
                 // should we delay packet?
