@@ -28,11 +28,17 @@ The NullPointerWare has reached EOL, and as such, will not be accepting pull req
 The project got 423 commits over its lifetime, 185 of them from me.
 
 Here's the final tally on the commits, by the way:
+
 185  Lagoon
+
 170  Munchax10
+
 56  rk3333333
+
 5  TeamSyncOffical
+
 4  Volcan
+
 4  XykosTeam
 
 
